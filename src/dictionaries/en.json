@@ -1,0 +1,218 @@
+{
+  "header": {
+    "menu": "Menu",
+    "link": "Start Project",
+    "link1": "Home",
+    "link2": "Projects",
+    "link3": "Services",
+    "link4": "About",
+    "link5": "Team",
+    "link6": "Contacts"
+  },
+  "mainBanner": {
+    "mainText": "We craft digital art for our clients.",
+    "category1": "websites",
+    "category2": "mobile apps",
+    "category3": "selling landing pages",
+    "hashtag1": "#creativity",
+    "hashtag2": "#functionality",
+    "hashtag3": "#usability"
+  },
+  "titles": {
+    "projectsSections": "Projects",
+    "servicesSections": "Services",
+    "aboutSections": "About us",
+    "teamSections": "Team",
+    "contactSections": "Order the project"
+  },
+  "subtitles": {
+    "servicesSections": "We help startups and large corporations create user-friendly and high-quality IT products.",
+    "aboutSections": "Наша цель - предоставить нашим клиентам инструменты, способные адаптироваться к меняющимся требованиям рынка и помогающие им процветать в цифровой эпохе.",
+    "teamSections": "Мы хотим внести позитивный вклад в мир через нашу работу. Ответственное отношение к делу и внимательность к потребностям клиентов позволяют нам эффективно достигать наших целей.",
+    "contactSections": "Гарантируем эффективность и ваш успех."
+  },
+  "sections": {
+    "about": {
+      "title": "About Us",
+      "subtitle": "Our mission is to provide our clients with adaptive tools that meet the changing market demands and and help them succeed in the digital era.",
+      "farida_name": "Farida N.",
+      "hisom_name": "Hisom Sh.",
+      "masrur_name": "Masrur Q.",
+      "jahongir_name": "Jahongir N.",
+      "cards": {
+        "first_card": {
+          "title": "Product-based approach",
+          "subtitle": "We focus on creating not just software solutions, but complete products that fully meet the needs of clients and end-users."
+        },
+        "second_card": {
+          "title": "Accuracy in deadlines",
+          "subtitle": "We meet promised deadlines, guaranteeing a structured and on-time completion of all project phases."
+        },
+        "third_card": {
+          "title": "Creative solutions",
+          "subtitle": "We propose out-of-the-box and innovative ideas that make our solutions unique and in high demand in the market."
+        },
+        "fourth_card": {
+          "title": "Training of the client's team",
+          "subtitle": "We share the necessary knowledge and skills with the client's team, giving them the ability to independently support and advance the product after the project ends."
+        }
+      }
+    },
+    "services": {
+      "cards": {
+        "first_card": {
+          "name": "Branding",
+          "title1": "Budget:",
+          "answer1": "From",
+          "title2": "Project duration: ",
+          "answer2": "1 month."
+        },
+        "second_card": {
+          "name": "Informational website",
+          "title1": "Budget:",
+          "answer1": "From",
+          "title2": "Project duration: ",
+          "answer2": "From 1 month to 3 months."
+        },
+        "third_card": {
+          "name": "Corporate website",
+          "title1": "Budget:",
+          "answer1": "From",
+          "title2": "Project duration: ",
+          "answer2": "Up to 3 months."
+        },
+        "fourth_card": {
+          "name": "E - commerce",
+          "title1": "Budget:",
+          "answer1": "From",
+          "title2": "Project duration: ",
+          "answer2": "Up to 6 months. "
+        },
+        "fifth_card": {
+          "name": "Custom solution",
+          "answer1": "Ready to engage in projects of any complexity and develop unique IT products."
+        }
+      },
+      "button": "Order project"
+    },
+    "projects": {
+      "button": "All Projects"
+    },
+    "team": {
+      "title": "Team",
+      "subtitle": "We aim to make a positive impact on the world through our work. Our responsible approach and attention to clients' needs enable us to achieve our goals effectively.",
+      "team_members": {
+        "farida": {
+          "name": "Farida N.",
+          "proffesion": "Project Manager"
+        },
+        "hisom": {
+          "name": "Hisom Sh.",
+          "proffesion": "UX|UI designer"
+        },
+        "masrur": {
+          "name": "Masrur Q.",
+          "proffesion": "Backend developer"
+        },
+        "jahongir": {
+          "name": "Jahongir N.",
+          "proffesion": "Frontend developer"
+        },
+        "khushnud": {
+          "name": "Khushnud I.",
+          "proffesion": "UX|UI designer"
+        }
+      }
+    },
+    "contact": {
+      "title": "Order the project",
+      "subtitle": "We guarantee efficiency and your success.",
+      "form_text": "Please provide your contact details, and we will contact you to discuss the project further",
+      "about_person": {
+        "text": "Information about you*",
+        "name": "Name*",
+        "email": "Email Address*",
+        "number": "Phone Number*"
+      },
+      "about_project": {
+        "text": "Provide a short overview of the new project*",
+        "description": "Briefly describe the new project."
+      },
+      "about_services": {
+        "text": "Services* ",
+        "e_commerce": "E - commerce",
+        "info_web": "Informational website",
+        "branding": "Branding",
+        "corporate_website": "Corporate website",
+        "other": "Other",
+        "text2": "Вudget in USD*",
+        "link": "Link to your web site",
+        "text3": "Up to"
+      },
+      "button": "Send Request"
+    }
+  },
+  "page": {
+    "home": {
+      "title": "Welcome to NextJs i18n",
+      "description": "Internationalization in NextJs 13 App router"
+    },
+    "about": {
+      "title": "About Us",
+      "description": "This is the about page"
+    },
+    "portfolio": {
+      "title": "Portfolio",
+      "card1": "Websites",
+      "card2": "All"
+    },
+    "brief": {
+      "main_title": "Technical task",
+      "question1": "Welcome to the technical specification development section!",
+      "answer1": "Filling out the technical specification is the first and one of the most important steps in the process of creating your website or mobile application. This will help us better understand your goals, preferences, and project requirements, which is key to successful implementation.",
+      "question2": "Why fill out the specification?",
+      "answer2": "Understanding goals: Clearly defined goals allow us to create a product that precisely meets your business objectives.",
+      "answer3": "Effective communication: Simplifies communication between all project participants, reducing the likelihood of misunderstandings. ",
+      "answer4": "Resource optimization: A detailed description of requirements helps to correctly assess the necessary resources and timelines.",
+      "question3": "How long will it take?",
+      "answer5": "Filling out will take approximately 20 minutes. We recommend approaching this process responsibly, as the information provided is the basis of your project",
+      "question4": "Your benefits:",
+      "answer6": "After filling out the technical specification, you will be able to download it in PDF format. This document can be used for your internal needs, discussion with colleagues, or for providing to other contractors.",
+      "answer7": "Sincerely",
+      "answer8": "Console team",
+      "company_name": "Your Company Name",
+      "field": "What is your company's field of activity?",
+      "links": "Links to social networks or current website",
+      "goals": "Project Goals",
+      "it_product": "What IT product do you want to develop?",
+      "business_goals": "What business goals do you aim to achieve with this project?",
+      "problems": "What problems or challenges should your new website/application address?",
+      "users": "Users",
+      "potential_users": "Who is the end user of the product being developed? ",
+      "main_actions": "What are the main actions the user should perform on your website/application?",
+      "requirements": "Functional Requirements ",
+      "features": "What key features should your product include? ",
+      "additional_features": "Are there any additional features you would like to see in the future?",
+      "design": "Design and Style",
+      "style": "What design style do you prefer?",
+      "design_examples": "Provide examples of designs you liked. ",
+      "your_style": "Do you have a corporate style?",
+      "technical_requirements": "Technical Requirements",
+      "services": "What external services or systems need to be integrated?",
+      "security": "What are your requirements for security and data processing?",
+      "budget": "Budget and Timeline",
+      "your_budget": "What is your budget for this project?",
+      "deadline": "What timeframe are you considering for the project launch?",
+      "favorites_title": "Examples of Liked and Disliked Projects",
+      "your_favorites": "Which websites or applications did you particularly like? What specifically attracted you to them? ",
+      "not_favorites": "Are there examples of websites or applications that you did not like? What specifically did you not like about them?",
+      "additional_questions": "Additional Questions",
+      "questions": "Do you have any special requirements or requests that we have not discussed?",
+      "support": "How do you envision the support and maintenance of the product after launch?",
+      "contact_info": "Contact Information",
+      "contact_face": "Who will be the main contact person for this project?",
+      "contact_style": "What are the preferred methods and times for communication?",
+      "button": "Send"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+@media (max-width: 818px) {
+  .footer-container-2 {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
+
+  .footer-logo {
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    order: 2;
+  }
+
+  .footer-container-2 a {
+    margin-right: 0;
+    order: 1;
+  }
+
+  .footer-container-2 > p {
+    order: 3;
+  }
+}

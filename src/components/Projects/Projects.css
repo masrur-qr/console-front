@@ -1,0 +1,18 @@
+@media (max-width: 1253px) {
+  .project-section-title {
+    font-size: 48px;
+  }
+}
+
+@media (max-width: 600px) {
+  #projects-section {
+    margin-inline: 15px;
+  }
+}
+
+@media (hover: hover) {
+  .all_projects-link:hover {
+    background-color: #fff;
+    color: #000;
+  }
+}

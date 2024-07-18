@@ -1,0 +1,16 @@
+@media (max-width: 600px) {
+  .portfolio-title {
+    font-size: 48px;
+  }
+
+  .filter-wrapper {
+    margin-inline: 15px;
+    justify-content: center;
+    gap: 20px;
+    flex-wrap: wrap;
+  }
+
+  .filter-wrapper button {
+    font-size: 16px;
+  }
+}

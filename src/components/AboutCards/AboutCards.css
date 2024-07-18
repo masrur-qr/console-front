@@ -1,0 +1,22 @@
+@media (max-width: 991px) {
+  .about__cards div h2 {
+    font-size: 28px;
+  }
+  .about__cards div p {
+    font-size: 14px;
+  }
+}
+
+@media (max-width: 600px) {
+  #about-section {
+    margin-inline: 15px;
+  }
+  
+  .about__cards {
+    grid-template-columns: 1fr;
+  }
+
+  .about__cards div {
+    width: 100%;
+  }
+}

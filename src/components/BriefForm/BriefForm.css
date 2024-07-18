@@ -1,0 +1,54 @@
+@media (max-width: 649px) {
+  /* .brief__form #contact-options,
+  .brief__form #requirements,
+  .brief__form #hated-projects,
+  .brief__form #favorites-projects,
+  .brief__form #project-deadline,
+  .brief__form #cybersecurity,
+  .brief__form #additional-features,
+  .brief__form #users-actions,
+  .brief__form #business-problems,
+  .brief__form #business-goals,
+  .brief__form #project-support {
+    padding-top: 40px;
+  } */
+
+  .brief__form textarea {
+    padding-top: 40px;
+  }
+
+  .brief__form #company-name,
+  .brief__form #work-place,
+  .brief__form #social-links,
+  .brief__form #it-product,
+  .brief__form #email {
+    padding-top: 20px;
+  }
+
+  .brief__form label {
+    font-size: 12px;
+  }
+  
+  .form-title {
+    font-size: 20px;
+  }
+}
+
+@media (max-width: 593px) {
+  .brief__form {
+    margin-inline: 15px;
+  }
+}
+
+@media (max-width: 527px) {
+  .brief__form label {
+    font-size: 12px;
+  }
+}
+
+@media (hover: hover) {
+  .submit__btn-form:hover {
+    background-color: #fff;
+    color: #000;
+  }
+}

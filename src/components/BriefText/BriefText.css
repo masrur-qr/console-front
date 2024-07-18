@@ -1,0 +1,21 @@
+@media (max-width: 600px) {
+  .brief__text {
+    margin-inline: 15px;
+  }
+
+  .brief-title {
+    font-size: 43px;
+  }
+
+  .texts-wrapper {
+    margin-top: 60px;
+  }
+
+  .titles {
+    font-size: 18px;
+  }
+
+  .subtitles {
+    font-size: 18px;
+  }
+}

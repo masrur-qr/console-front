@@ -1,0 +1,113 @@
+.header {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  /* padding: 20px; */
+  background-color: #000;
+  color: #fff;
+  position: relative;
+  z-index: 1000; /* Ensure header stays above the nav */
+}
+
+.logo a {
+  font-size: 24px;
+  font-weight: bold;
+  color: #fff;
+  text-decoration: none;
+  position: relative;
+  z-index: 1001; /* Ensure logo stays above the nav */
+}
+
+.menuText {
+  cursor: pointer;
+  font-size: 18px;
+  color: #fff;
+  z-index: 1001; /* Ensure menu text stays above the nav */
+}
+
+.nav {
+  position: fixed; /* Change to fixed to ensure it covers the entire screen */
+  top: 0px;
+  left: 0;
+  width: 100%;
+  background-color: #000;
+  overflow: hidden;
+  z-index: 9999999; /* Ensure nav is below header and menu text */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  border-bottom: 1px solid #888888af;
+  border-bottom-left-radius: 20px;
+  border-bottom-right-radius: 20px;
+  padding-inline: 30px;
+}
+
+.nav ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+  text-align: center;
+}
+
+.nav li {
+  margin: 20px 0;
+}
+
+.nav ul li a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 20px;
+}
+
+/* Blur effect for content when menu is open */
+.blur {
+  filter: blur(5px);
+  transition: filter 0.5s ease-in-out;
+  user-select: none;
+}
+
+.linksDivider {
+  position: relative;
+}
+
+.linksDivider::before {
+  content: "";
+  position: absolute;
+  width: 1px;
+  height: 80%;
+  background-color: #fff;
+  left: 50%;
+  top: 50%;
+  transform: translate(-50%, -50%);
+}
+
+.startLinkMenu {
+  display: none;
+}
+
+@media (max-width: 592px) {
+  .startLink {
+    display: none;
+  }
+
+  .startLinkMenu {
+    display: block;
+  }
+
+  .nav {
+    padding-inline: 15px !important;
+  }
+
+  .nav ul {
+    position: relative;
+    top: 20px;
+  }
+}
+
+@media (hover: hover) {
+  .startLink:hover {
+    background-color: #fff;
+    color: #000;
+  }
+}

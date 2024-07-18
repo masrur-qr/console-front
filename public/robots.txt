@@ -1,0 +1,11 @@
+# *
+User-agent: *
+Allow: /
+Disallow: /en/admin
+Disallow: /en/login
+
+# Host
+Host: https://itisconsole.com
+
+# Sitemaps
+Sitemap: https://itisconsole.com/sitemap.xml
