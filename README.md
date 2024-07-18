@@ -35,3 +35,18 @@ The easiest way to deploy your Next.js app is to use the [Vercel Platform](https
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
 # console-front
+
+1. Connect DB to existing Mongo Service and give externall access
+2. Run Backend ,Frontend And Telegram Bot
+3. Back up Backend & Frontend inside the machine thus in case of restarting restore the data 
+4. ssl certificate and domain connect "cashback.nadim.shop , cashbackend.nadim.shop"
+5. update code in 1 month 
+
+Price: 4000
+
+1. Integrate the database with the existing MongoDB service and configure external access.
+2. Deploy and manage the backend, frontend, and Telegram bot applications.
+3. Implement a backup solution for the backend and frontend on the server to ensure data restoration in case of a restart.
+4. Set up SSL certificates and configure domains for "cashback.nadim.shop" and "cashbackend.nadim.shop".
+5. Provide code updates and maintenance support for one month.
+Price: $4000
